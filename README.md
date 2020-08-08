@@ -1,3 +1,3 @@
-|                     |                                  |
+|        !smart       |         ^!slowing_down           |
 |---------------------|----------------------------------|
-|I'm not very smart   |But I'm not slowing down.         |
+|I'm not smart        |but I'm not slowing down.         |
