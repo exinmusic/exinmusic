@@ -1,1 +1,3 @@
-![this is fine.](https://github.com/exinmusic/exinmusic/blob/master/giphy-downsized-large.gif?raw=true) ![this is fine.](https://github.com/exinmusic/exinmusic/blob/master/gang-signs.gif?raw=true)
+<h1 align="center">
+   <img src="https://github.com/exinmusic/exinmusic/blob/master/gang-signs.gif?raw=true" style="height:20px;" />
+</h1>
